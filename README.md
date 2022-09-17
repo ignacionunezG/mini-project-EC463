@@ -1,3 +1,3 @@
 # mini-project-EC463
 
-Project
+Mark Vinciguerra and Ignacio Núñez
